@@ -1,3 +1,7 @@
+# Notice
+This repo is not updating by now because this config file seemed causing my computer deadlock while typing cpp. Be back later :)
+=======================================================================
+
 # dot-vim
 A beginner's .vimrc file
 
